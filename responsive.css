@@ -1,0 +1,26 @@
+
+
+@media(max-width:768px){
+
+  .slide-con{
+    text-align: center!important;
+  }
+}
+
+@media(max-width:576px){
+  .sm-rs{
+    text-align: center!important;
+  }
+  .welcome-icon ul{
+    display: flex;
+    justify-content: center;
+  }
+  .slide-con{
+    text-align: center!important;
+  }
+}
+
+
+
+/*        ----------------------- */
+
